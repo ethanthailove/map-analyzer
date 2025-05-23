@@ -125,7 +125,7 @@ function level13Solution() {
 }
 
 function level14Solution() {
-  if (row >= 1 && row <= 5 && column >= 1 && column <= 4) {
+  if (row >= 1 && row <= 5 && column >= 2 && column <= 4) {
     tile.innerHTML = "TREES";
   } else if (row >= 3 && row <= 5 && column >= 7 && column <= 10) {
     tile.innerHTML = "WATER";
