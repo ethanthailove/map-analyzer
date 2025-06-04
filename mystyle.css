@@ -96,21 +96,21 @@ main {
 
 /* Image Classes */
 .ground {
-  background-image: url("images/ground.png");
+  background-image: url("ground.png");
 }
 
 .trees {
-  background-image: url("images/trees.png");
+  background-image: url("trees.png");
 }
 
 .bush {
-  background-image: url("images/bush.png");
+  background-image: url("bush.png");
 }
 
 .water {
-  background-image: url("images/water.png");
+  background-image: url("water.png");
 }
 
 .link {
-  background-image: url("images/link_right1.png");
+  background-image: url("link_right1.png");
 }
